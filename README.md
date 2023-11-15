@@ -25,9 +25,7 @@
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/Itumeleng1962/custom-icon-badges -->
-<!-- View counter - https://github.com/Itumeleng1962/Simple-View-Counter -->
+
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -53,23 +51,10 @@
 
   <table>
     <tr>
-      <!-- <th>$10+/month</th> -->
       <th>$5+/month</th>
     </tr>
     <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
+  
   </table>
 
   <a href="https://github.com/sponsors/Itumeleng1962/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
@@ -78,8 +63,6 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/Itumeleng1962/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/Itumeleng1962/readme-typing-svg"><img width="278" src="https://Itumeleng1962-github-readme-stats.vercel.app/api/pin/?username=Itumeleng1962&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/Itumeleng1962/github-readme-streak-stats"><img width="278" src="https://Itumeleng1962-github-readme-stats.vercel.app/api/pin/?username=Itumeleng1962&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -98,7 +81,6 @@
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
-  <!-- Small repo cards https://github.com/Itumeleng1962/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/pallets/flask"><img width="278" src="https://Itumeleng1962-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/badges/shields"><img width="278" src="https://Itumeleng1962-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
