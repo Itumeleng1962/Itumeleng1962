@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Web Design**
 
-- 👨‍💻 All of my projects are available at [https://itumeleng1962.github.io/](https://itumeleng1962.github.io/)
-
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **itumeleng.mahwa@umuzi.org**
